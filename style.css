@@ -11,6 +11,7 @@ body{
     box-sizing: border-box;
 }
 .prawy{
+    pading-left:1%;
     width: 40%;
     height: 200px; 
     border-color: black;
@@ -20,6 +21,7 @@ body{
 
 }
 .lewy{
+    pading-left:1%;
     width: 60%;
     height: 200px;
     float: left;
